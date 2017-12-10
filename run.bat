@@ -1,0 +1,1 @@
+D:\Python27\Scripts\pyinstaller -w autodocdlgmain.py
